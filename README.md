@@ -58,8 +58,7 @@ Excel/CSV	Data Source
 Insert → Upload Dashboard Screenshot
 
 Original Dataset
-https://docs.google.com/spreadsheets/d/1huf7nbHNZdzr4N6QUvURxeWU-G27KSYU3Kl3v_heXg
-w/edit#gid=1166525029 
+https://docs.google.com/spreadsheets/d/1huf7nbHNZdzr4N6QUvURxeWU-G27KSYU3Kl3v_heXgw/edit?gid=1166525029#gid=1166525029
 
 ## Business Value
 This dashboard helps:
