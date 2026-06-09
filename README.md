@@ -32,6 +32,9 @@ Contributing Factors Analysis
 Fatal Accident Analysis
 Interactive Filters
 
+Dashboard 
+https://github.com/IsyakuIsyaku/NYC-Traffic-Collision-Analysis-Dashboard/blob/main/NYC%20Collisions%20Analysis%20Dashboard.pbix
+
 Users can filter the dashboard by:
 Borough
 Month
